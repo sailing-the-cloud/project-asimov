@@ -1,0 +1,6 @@
+apiVersion: serviceapp.asimov.io/v1alpha1
+kind: ServiceApp
+metadata:
+  name: svc-trantor-go
+spec:
+  # <TODO>
