@@ -1,4 +1,4 @@
-module github.com/satriajidam/project-asimov
+module github.com/saling-the-cloud/project-asimov
 
 go 1.13
 

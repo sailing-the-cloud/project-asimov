@@ -12,9 +12,9 @@ import (
 	_ "k8s.io/client-go/plugin/pkg/client/auth"
 	"k8s.io/client-go/rest"
 
-	"github.com/satriajidam/project-asimov/pkg/apis"
-	"github.com/satriajidam/project-asimov/pkg/controller"
-	"github.com/satriajidam/project-asimov/version"
+	"github.com/saling-the-cloud/project-asimov/pkg/apis"
+	"github.com/saling-the-cloud/project-asimov/pkg/controller"
+	"github.com/saling-the-cloud/project-asimov/version"
 
 	"github.com/operator-framework/operator-sdk/pkg/k8sutil"
 	kubemetrics "github.com/operator-framework/operator-sdk/pkg/kube-metrics"
